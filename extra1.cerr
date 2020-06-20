@@ -1,0 +1,4 @@
+extra1.cpp: In function ‘void solve()’:
+extra1.cpp:52:14: warning: suggest parentheses around arithmetic in operand of ‘^’ [-Wparentheses]
+         if(x & 1 ^ 1){
+              ^
