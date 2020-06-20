@@ -1,0 +1,4 @@
+o.cpp: In function ‘void solve()’:
+o.cpp:50:9: warning: unused variable ‘ans’ [-Wunused-variable]
+     int ans = 0;
+         ^~~
