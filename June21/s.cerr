@@ -1,0 +1,4 @@
+s.cpp: In function ‘void solve()’:
+s.cpp:61:22: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+     if(sz(pos01) & 1 != sz(pos10) & 1){
+                      ^

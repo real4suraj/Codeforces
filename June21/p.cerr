@@ -1,0 +1,7 @@
+p.cpp: In function ‘void solve()’:
+p.cpp:50:9: warning: unused variable ‘dx’ [-Wunused-variable]
+     int dx[] = {0, 1, 0, -1};
+         ^~
+p.cpp:51:9: warning: unused variable ‘dy’ [-Wunused-variable]
+     int dy[] = {1, 0, -1, 0};
+         ^~
