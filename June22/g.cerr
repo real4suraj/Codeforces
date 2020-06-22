@@ -1,0 +1,4 @@
+g.cpp: In function ‘void solve()’:
+g.cpp:48:10: warning: suggest parentheses around arithmetic in operand of ‘^’ [-Wparentheses]
+     if(n & 1 ^ 1){
+        ~~^~~
